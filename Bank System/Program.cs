@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using Bank_System.Models;
+﻿using Bank_System.Models;
 
 namespace Bank_System
 {
@@ -9,8 +6,9 @@ namespace Bank_System
     {
         static void Main(string[] args)
         {
+            // Version 0.9
             Console.WriteLine("=== Bank System Testing Started ===");
-
+            // Version 0.9
             Bank centralBank = null;
             Employe employee = null;
             List<User> users = new List<User>();
