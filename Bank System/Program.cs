@@ -6,9 +6,9 @@ namespace Bank_System
     {
         static void Main(string[] args)
         {
-            // Version 0.9
+            // Version 1.0
             Console.WriteLine("=== Bank System Testing Started ===");
-            // Version 0.9
+            // Version 1.0
             Bank centralBank = null;
             Employe employee = null;
             List<User> users = new List<User>();
