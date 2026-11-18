@@ -7,7 +7,7 @@ namespace Bank_System
         static void Main(string[] args)
         {
             // Version 1.0
-            Console.WriteLine("=== Bank System Testing Started ===");
+            Console.WriteLine(" Bank System Testing Started ===");
             // Version 1.0
             Bank centralBank = null;
             Employe employee = null;
